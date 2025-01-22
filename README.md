@@ -1,1 +1,1 @@
-# GEN_AI
+1.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A1.ipynb]
