@@ -10,8 +10,10 @@
 
 
 
-7.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_1.ipynb]
+7.1[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_1.ipynb]
 
 7.2[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_2.ipynb]
 
 7.3[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_3.ipynb]
+
+8.1[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A8_1.ipynb]
