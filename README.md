@@ -7,3 +7,7 @@
 4.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_4.ipynb]
 
 5.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_5.ipynb]
+
+
+
+7.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_1.ipynb]
