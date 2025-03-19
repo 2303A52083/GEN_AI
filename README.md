@@ -8,6 +8,8 @@
 
 5.[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A5.ipynb]
 
+6.1[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A6_2.ipynb]
+
 6.2[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A6_2.ipynb]
 
 7.1[https://github.com/2303A52083/GEN_AI/blob/main/GEN_AI_A7_1.ipynb]
